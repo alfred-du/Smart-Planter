@@ -61,11 +61,7 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 - **Power supply noise**: DS18B20 experiencing transient errors; resolved with filtering capacitors and input validation
 - **Sensor calibration**: Two-point moisture calibration (air/water) achieving ±5% accuracy
 - **Alert management**: Implemented 15-minute cooldown to prevent notification spam
-
-## Skills Demonstrated
-
-Embedded C++ • Multi-sensor Integration • IoT/WiFi • API Integration • **3D CAD Design (Fusion 360)** • Hardware Debugging • Real-time Systems • **Mechanical Engineering**
-
+  
 ## Demo
 
 **Telegram Bot Commands:**
