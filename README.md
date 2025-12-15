@@ -34,7 +34,7 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 
 ## Mechanical Design
 
-![Enclosure Render](cad/enclosure_render.png)
+![Enclosure Render](images/cad_render.png)
 
 **Custom 3D-Printed Housing:**
 - Snap-fit, 3-compartment design
