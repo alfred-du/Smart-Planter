@@ -2,7 +2,7 @@
 
 IoT plant monitoring system with real-time sensor data and automated Telegram alerts.
 
-![Demo](images/demo.jpg)
+![Demo](images/planter_cover.jpg)
 
 ## Overview
 
