@@ -29,7 +29,7 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 - Real-time sensor data display
 - Remote monitoring via Telegram (`/status` command)
 - Automatic alerts for critical thresholds
-- **Custom-designed weatherproof enclosure**
+- Custom-designed weatherproof enclosure
 - Calibrated moisture sensing (20-60% optimal range)
 
 ## Mechanical Design
