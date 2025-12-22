@@ -51,7 +51,7 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 ```
 ├── src/           # Arduino firmware (modular C++)
 ├── hardware/      # Schematics and wiring diagrams
-├── cad/           # Fusion 360 files, STL/STEP exports
+├── cad/           # Mesh file exports
 ├── docs/          # Technical notes and calibration data
 └── images/        # Project photos and screenshots
 ```
