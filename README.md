@@ -70,8 +70,3 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 
 **Alert Thresholds:**
 - Air: 60-80°F | Soil: 60-75°F | Moisture: 20-60%
-
----
-
-**Project Type:** Academic Capstone | **Status:** Complete  
-Full project details and analysis: [Portfolio Link]
