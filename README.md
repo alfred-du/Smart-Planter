@@ -44,8 +44,9 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 - Modular sensor bracket system
 
 **Design Files:**
-- Fusion 360 source: `cad/enclosure.f3d`
-- 3mf (3D printable): `cad/enclosure.stl`
+- Shell: `cad/Shell.3mf`
+- Bucket: `cad/Bucket.stl`
+- Floor: `cad/Floor.stl`
 
 ## Repository Contents
 ```
