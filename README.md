@@ -11,7 +11,7 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 ## Tech Stack
 
 **Hardware:**
-- ESP32 microcontroller
+- ESP32-S3 – Microcontroller
 - BMP280 (I²C) - Air temp/pressure
 - DS18B20 (OneWire) - Soil temperature probe
 - Capacitive soil moisture sensor (Analog)
@@ -19,8 +19,7 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 - Custom 3D-printed enclosure (Fusion 360)
 
 **Software:**
-- C++ firmware with modular architecture
-- Multi-protocol communication (I²C, SPI, OneWire, ADC)
+- C++ with modular architecture
 - Telegram Bot API integration
 - Real-time threshold monitoring with alert cooldowns
 
@@ -50,7 +49,7 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 
 ## Repository Contents
 ```
-├── src/           # Arduino firmware (modular C++)
+├── src/           # Arduino code (modular C++)
 ├── hardware/      # Schematics and wiring diagrams
 ├── cad/           # Mesh file exports
 ├── docs/          # Technical notes and calibration data
@@ -70,4 +69,4 @@ ESP32-based environmental monitoring system that tracks air temperature, humidit
 - `/help` - Command list
 
 **Alert Thresholds:**
-- Air: 60-80°F | Soil: 60-75°F | Moisture: 20-60%
+- Air: 60-80°F | Soil: 60-75°F | Moisture: 20-60% (configurable in `src/config.h`)
