@@ -1,4 +1,4 @@
-# Smart Planter 🌱
+# Smart Planter
 
 IoT plant monitoring system with real-time sensor data and automated Telegram alerts.
 
